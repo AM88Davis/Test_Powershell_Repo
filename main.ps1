@@ -2,4 +2,4 @@
 import-module Microsoft.Online.SharePoint.PowerShell
 write-host "Hello there"
 
-write-host "Is this fake or nah"
+write-host "THIS IS FAKE!"
